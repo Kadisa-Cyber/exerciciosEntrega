@@ -174,7 +174,7 @@ while True:
     print("┃ 6 ━ Sair                                           ┃")
     print("┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙")
 
-    opcao = int(input("O que você deseja fazer? (1-5): "))
+    opcao = int(input("O que você deseja fazer? (1-6): "))
 
     match opcao:
         case 1:
